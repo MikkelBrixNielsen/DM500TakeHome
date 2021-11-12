@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.11.2)  12 NOV 2021 15:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.5)  12 NOV 2021 15:54
 entering extended mode
 **./TakeHomeEksamenDM500.tex
 (TakeHomeEksamenDM500.tex
 LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-10-18>
-(/home/suiziide/.miktex/texmfs/install/tex/latex/base/article.cls
+L3 programming layer <2021-08-27>
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
-(/home/suiziide/.miktex/texmfs/install/tex/latex/base/size10.clo
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count182
@@ -21,34 +21,34 @@ File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(/home/suiziide/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/home/suiziide/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(/home/suiziide/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(/home/suiziide/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/home/suiziide/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(/home/suiziide/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen139
 \Gin@req@width=\dimen140
-)
-(/home/suiziide/.miktex/texmfs/install/tex/latex/tools/tabularx.sty
+) (C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 
-(/home/suiziide/.miktex/texmfs/install/tex/latex/tools/array.sty
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
 \col@sep=\dimen141
 \ar@mcellbox=\box50
@@ -66,29 +66,29 @@ Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
 \TX@cols=\count190
 \TX@ftn=\toks18
 )
-(/home/suiziide/.miktex/texmfs/install/tex/latex/base/inputenc.sty
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks19
 \inpenc@posthook=\toks20
 )
-(/home/suiziide/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2021/04/20 v2.17j AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
-(/home/suiziide/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(/home/suiziide/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
 \ex@=\dimen148
 ))
-(/home/suiziide/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen149
 )
-(/home/suiziide/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count191
@@ -129,7 +129,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 )
-(/home/suiziide/.miktex/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -137,10 +137,10 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-(/home/suiziide/.miktex/texmfs/install/tex/latex/amsfonts/amssymb.sty
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-(/home/suiziide/.miktex/texmfs/install/tex/latex/enumitem/enumitem.sty
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip54
 \enit@outerparindent=\dimen157
@@ -149,35 +149,32 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count269
 \enitdp@description=\count270
 )
-(/home/suiziide/.miktex/texmfs/install/tex/generic/babel/babel.sty
-Package: babel 2021/10/19 3.65 The Babel package
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/07/22 3.63 The Babel package
+
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/07/22 3.63 Babel common definitions
 \babel@savecnt=\count271
 \U@D=\dimen158
-\l@unhyphenated=\language1
+\l@unhyphenated=\language79
 
-(/home/suiziide/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
+)
 \bbl@dirlevel=\count272
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(/home/suiziide/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(/home/suiziide/.miktex/texmfs/install/tex/latex/babel-danish/danish.ldf
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/babel-danish\danish.ldf
 Language: danish 2021/02/06 v1.3s Danish support from the babel system
-
-
-Package babel Warning: No hyphenation patterns were preloaded for
-(babel)                the language 'Danish' into the format.
-(babel)                Please, configure your TeX system to add them and
-(babel)                rebuild the format. Now I will use the patterns
-(babel)                preloaded for \language=0 instead on input line 49.
-
 Package babel Info: Making " an active character on input line 82.
-)) (/home/suiziide/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+))
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
 rs
 \f@nch@headwidth=\skip55
@@ -190,11 +187,12 @@ rs
 \f@nch@O@olf=\skip62
 \f@nch@O@orf=\skip63
 )
-(/home/suiziide/.miktex/texmfs/install/tex/latex/lastpage/lastpage.sty
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
 Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
 )
-(/home/suiziide/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count273
 \l__pdf_internal_box=\box55
 )
@@ -220,7 +218,8 @@ LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 
-(/home/suiziide/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count274
 \scratchdimen=\dimen159
@@ -234,11 +233,14 @@ LaTeX Font Info:    ... okay on input line 23.
 \makeMPintoPDFobject=\count279
 \everyMPtoPDFconversion=\toks28
 )
-(/home/suiziide/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-(/home/suiziide/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package lastpage Info: Please have a look at the pageslts package at
@@ -246,19 +248,19 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             ! on input line 23.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
 
-
-(/home/suiziide/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
+ (C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
 
 
-(/home/suiziide/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+[1
 
 
-{/home/suiziide/.miktex/texmfs/data/pdftex/config/pdftex.map}]
+{C:/Users/mikke/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 69--71
 
  []
@@ -310,7 +312,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--191
 
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
 91.
-(/home/suiziide/.miktex/texmfs/install/tex/latex/base/omscmr.fd
+(C:\Users\mikke\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -335,30 +337,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 196--201
 
  []
 
-
+[5] 
 AED: lastpage setting LastPage
-[5] (TakeHomeEksamenDM500.aux) ) 
+[6] (TakeHomeEksamenDM500.aux) ) 
 Here is how much of TeX's memory you used:
- 4032 strings out of 480844
- 59755 string characters out of 2903462
- 378503 words of memory out of 3000000
- 21629 multiletter control sequences out of 15000+600000
+ 4025 strings out of 478927
+ 60355 string characters out of 2852535
+ 381636 words of memory out of 3000000
+ 21841 multiletter control sequences out of 15000+600000
  411331 words of font info for 58 fonts, out of 8000000 for 9000
- 0 hyphenation exceptions out of 8191
+ 1141 hyphenation exceptions out of 8191
  57i,11n,66p,358b,242s stack positions out of 5000i,500n,10000p,200000b,80000s
-</home/suiziide/.miktex/texmfs/install/fonts/ty
-pe1/public/amsfonts/cm/cmbx12.pfb></home/suiziide/.miktex/texmfs/install/fonts/
-type1/public/amsfonts/cm/cmex10.pfb></home/suiziide/.miktex/texmfs/install/font
-s/type1/public/amsfonts/cm/cmmi10.pfb></home/suiziide/.miktex/texmfs/install/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb></home/suiziide/.miktex/texmfs/install/f
-onts/type1/public/amsfonts/cm/cmr12.pfb></home/suiziide/.miktex/texmfs/install/
-fonts/type1/public/amsfonts/cm/cmr17.pfb></home/suiziide/.miktex/texmfs/install
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/suiziide/.miktex/texmfs/insta
-ll/fonts/type1/public/amsfonts/cm/cmti10.pfb></home/suiziide/.miktex/texmfs/ins
-tall/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on TakeHomeEksamenDM500.pdf (5 pages, 117472 bytes).
+<C:/Users/mikke/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/mikke/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/mikke/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/mikke/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mi
+kke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
+Users/mikke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.
+pfb><C:/Users/mikke/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb><C:/Users/mikke/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmti10.pfb><C:/Users/mikke/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/symbols/msbm10.pfb>
+Output written on TakeHomeEksamenDM500.pdf (6 pages, 117980 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
+ 66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
