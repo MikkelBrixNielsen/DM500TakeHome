@@ -3,6 +3,9 @@
 \usepackage{tabularx}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
+\usepackage{amsfonts} 
+\usepackage{amssymb}
+\usepackage{enumitem}
 \usepackage[danish]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{fancyhdr}
@@ -39,7 +42,7 @@
 	$$
 	Til denne opgaver forekommer 2 delopgaver. I den ene delopgave skal matricen der forekommer ved \(A+B\) beregnes, og i den anden delopgave skal matricen, der forekommer ved \(A*B\) beregnes.	
 	
-	\subsection*{Opaver a)}
+	\subsection*{Opgave a)}
 	Lad matricen der forekommer ved \(A+B\) være C, så kan værdien, der skal indsættes i  matrice C, på index (i, j), være summen af tallene, der findes i matrice A på index (i, j) samt værdien, der findes i matrice B på index (i, j).
 	
 	\begin{equation}
@@ -137,8 +140,42 @@
 	Og herved er delopgave b løst, og den matrice der forekommer ved at multiplicere matrice A med matrice B, \(A*B\), vil svare til matrice C.
 	\newpage
 		
-	\section*{Opgave 2}
-	
+	\section*{Opgave 2 - Reeksamen februar 2015 opgave 2}
+	\begin{enumerate}[label=(\alph*)]
+		\item 
+		Hvilke af følgende udsagn er sande?
+		\begin{align}
+		\forall x \in \mathbb{N}\!&:\exists y \in \mathbb{N}\!: x<y\\
+		\forall x \in \mathbb{N}\!&:\exists !y \in \mathbb{N}\!: x<y\\
+		\exists x \in \mathbb{N}\!&:\forall y \in \mathbb{N}\!: x<y
+		\end{align}
+		Første udsagn siger at for alle \(x\), existerer der mindst et \(y\) hvorom det gælder at \(x<y\)
+		\\
+		Dette er sandt, da man kan sætte \(y=x+1\)
+		\\
+		\\
+		Andet udsagn siger at for alle \(x\), eksisterer der \emph{kun} et \(y\) hvorom det gælder at \(x<y\)
+		\\
+		Dette er falsk da der findes flere tal der er større end \(x\) f.eks. \(x+1, x+2\) osv.
+		\\
+		\\
+		Tredje udsagn siger at man kan vælge et enkelt \(x\), hvor ligemeget hvilket \(y\) man vælger gælder det at \(x<y\)
+		\\
+		Dette er falsk, da man ligemeget hvilket \(x\) der er valgt, vil man kunne vælge \(y-1\)
+		\\
+		\item
+		Angiv negeringen af udsagn 1. fra spørgsmål a).\\
+		Negerings-operatoren (\(\neg\)) må ikke indgå i dit udsagn.
+		\begin{align*}
+		\neg(\forall x \in \mathbb{N}\!&:\exists y \in \mathbb{N}\!: x<y) \Leftrightarrow\\
+		\exists x \in \mathbb{N}\!&:\forall y \in \mathbb{N}\!: \neg(x<y)\Leftrightarrow\\
+		\exists x \in \mathbb{N}\!&:\forall y \in \mathbb{N}\!: x \geq y
+		\end{align*}
+		Først negeres kvantorerne, og derefter negeres det logiske udsagn.
+		\begin{center}
+			$\underline{\underline{\exists x \in \mathbb{N}\!:\forall y \in \mathbb{N}\!:x \geq y}}$\\
+		\end{center}
+	\end{enumerate}
 	
 	
 	\section*{Opgave 3}
