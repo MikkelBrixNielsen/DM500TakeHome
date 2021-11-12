@@ -1,0 +1,156 @@
+commit 38ac9e778d4604f8f47e49812d0c34b2dd7ff360
+Author: MikkelBN <mikkelbn24@live.dk>
+Date:   Fri Nov 12 16:10:50 2021 +0100
+
+    minor change
+
+ TakeHomeEksamenDM500.log        | 310 +++++++++++++++++++++++-----------------
+ TakeHomeEksamenDM500.pdf        | Bin 104888 -> 119601 bytes
+ TakeHomeEksamenDM500.synctex.gz | Bin 24842 -> 25205 bytes
+ TakeHomeEksamenDM500.tex        |   2 +-
+ 4 files changed, 182 insertions(+), 130 deletions(-)
+
+commit d993c65a3813aa19222a43756e3b61e19c31d5e1
+Merge: c859bbf a9fe1ae
+Author: MikkelBN <mikkelbn24@live.dk>
+Date:   Fri Nov 12 16:06:35 2021 +0100
+
+    Merge branch 'master' of https://github.com/MikkelBrixNielsen/DM500TakeHome
+
+commit c859bbf2773f5337b84f13ea67c6dcdc98925833
+Author: MikkelBN <mikkelbn24@live.dk>
+Date:   Fri Nov 12 16:06:32 2021 +0100
+
+    no changes
+
+ TakeHomeEksamenDM500.tex | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit e6e1474228c588156aa8cb7b16c06e37888ffa43
+Author: MikkelBN <mikkelbn24@live.dk>
+Date:   Fri Nov 12 15:55:13 2021 +0100
+
+    small dokument layout changes
+
+ TakeHomeEksamenDM500.aux        |   6 +-
+ TakeHomeEksamenDM500.log        | 139 ++++++++++++++++++++--------------------
+ TakeHomeEksamenDM500.pdf        | Bin 117472 -> 117980 bytes
+ TakeHomeEksamenDM500.synctex.gz | Bin 22391 -> 23133 bytes
+ TakeHomeEksamenDM500.tex        |   5 +-
+ 5 files changed, 76 insertions(+), 74 deletions(-)
+
+commit b610d55f645c897d2d25b7f045caab0cd465e025
+Author: suiziide <nicolai9595@hotmail.com>
+Date:   Fri Nov 12 15:52:54 2021 +0100
+
+    Opgave 3
+
+ TakeHomeEksamenDM500.log        | 170 ++++++++++++++++++++++++----------------
+ TakeHomeEksamenDM500.pdf        | Bin 114267 -> 117472 bytes
+ TakeHomeEksamenDM500.synctex.gz | Bin 20225 -> 22391 bytes
+ TakeHomeEksamenDM500.tex        |  20 ++++-
+ 4 files changed, 121 insertions(+), 69 deletions(-)
+
+commit f96c8f4c00d2a869480b8f84b4725257d034547c
+Merge: f3fe9a8 50e48fb
+Author: MikkelBN <mikkelbn24@live.dk>
+Date:   Fri Nov 12 15:27:11 2021 +0100
+
+    Merge branch 'master' of https://github.com/MikkelBrixNielsen/DM500TakeHome
+
+commit f3fe9a84d92dbf67b778269dc70392f96af28248
+Author: MikkelBN <mikkelbn24@live.dk>
+Date:   Fri Nov 12 15:25:50 2021 +0100
+
+    added page numbers
+
+ TakeHomeEksamenDM500.aux        |   5 +-
+ TakeHomeEksamenDM500.log        | 192 +++++++++++++++++++++-------------------
+ TakeHomeEksamenDM500.pdf        | Bin 113735 -> 114267 bytes
+ TakeHomeEksamenDM500.synctex.gz | Bin 19455 -> 20225 bytes
+ TakeHomeEksamenDM500.tex        |   8 +-
+ 5 files changed, 111 insertions(+), 94 deletions(-)
+
+commit 50e48fbf76db8ba0d30f095d63ab2eeed63512d8
+Author: suiziide <nicolai9595@hotmail.com>
+Date:   Fri Nov 12 15:10:03 2021 +0100
+
+    Fjernede numering
+
+ TakeHomeEksamenDM500.tex | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit b6f94483fd9d9dbf9ead0544faec4a5197ef9fc5
+Author: suiziide <nicolai9595@hotmail.com>
+Date:   Fri Nov 12 15:08:57 2021 +0100
+
+    Opgave 2
+
+ TakeHomeEksamenDM500.log        | 260 +++++++++++++++++++++++-----------------
+ TakeHomeEksamenDM500.pdf        | Bin 95139 -> 113735 bytes
+ TakeHomeEksamenDM500.synctex.gz | Bin 14816 -> 19455 bytes
+ TakeHomeEksamenDM500.tex        |  43 ++++++-
+ 4 files changed, 193 insertions(+), 110 deletions(-)
+
+commit a9fe1ae76554b2b0cef7da6c85140b17b3069ae6
+Author: steffen <stbac21@student.sdu.dk>
+Date:   Fri Nov 12 14:05:53 2021 +0000
+
+    opgave 4 added and solved
+
+ TakeHomeEksamenDM500.fdb_latexmk |  75 ++++++++
+ TakeHomeEksamenDM500.fls         | 339 ++++++++++++++++++++++++++++++++++++
+ TakeHomeEksamenDM500.log         | 367 +++++++++++++++++----------------------
+ TakeHomeEksamenDM500.pdf         | Bin 117980 -> 104888 bytes
+ TakeHomeEksamenDM500.synctex.gz  | Bin 23133 -> 24842 bytes
+ TakeHomeEksamenDM500.tex         |  29 +++-
+ 6 files changed, 604 insertions(+), 206 deletions(-)
+
+commit 1a3584c2394e1531e5a9ab2a24557805fb55b693
+Author: MikkelBN <mikkelbn24@live.dk>
+Date:   Fri Nov 12 14:51:52 2021 +0100
+
+    picked and solved the first exercise
+
+ TakeHomeEksamenDM500.aux        |   2 +-
+ TakeHomeEksamenDM500.log        | 141 +++++++++++++++-------------------------
+ TakeHomeEksamenDM500.pdf        | Bin 94661 -> 95139 bytes
+ TakeHomeEksamenDM500.synctex.gz | Bin 14622 -> 14816 bytes
+ TakeHomeEksamenDM500.tex        |  13 ++--
+ 5 files changed, 62 insertions(+), 94 deletions(-)
+
+commit 634e5fac2c217af58cb01f48a88fddd1af6d7317
+Author: MikkelBN <mikkelbn24@live.dk>
+Date:   Fri Nov 12 14:50:25 2021 +0100
+
+    picked and solved the first exercise
+
+ TakeHomeEksamenDM500.aux        |   6 +-
+ TakeHomeEksamenDM500.log        | 239 +++++++++++++++++++++++++++++++---------
+ TakeHomeEksamenDM500.pdf        | Bin 46315 -> 94661 bytes
+ TakeHomeEksamenDM500.synctex.gz | Bin 1360 -> 14622 bytes
+ TakeHomeEksamenDM500.tex        | 131 ++++++++++++++++++++--
+ 5 files changed, 317 insertions(+), 59 deletions(-)
+
+commit e06f77915bbc268db1aba384c52fe721f6578977
+Author: MikkelBN <mikkelbn24@live.dk>
+Date:   Fri Nov 12 12:54:48 2021 +0100
+
+    made titels and andede sections
+
+ TakeHomeEksamenDM500.aux        |   2 +
+ TakeHomeEksamenDM500.log        | 168 ++++++++++++++++++++++++++++++++++++++++
+ TakeHomeEksamenDM500.pdf        | Bin 0 -> 46315 bytes
+ TakeHomeEksamenDM500.synctex.gz | Bin 0 -> 1360 bytes
+ TakeHomeEksamenDM500.tex        |  20 ++++-
+ 5 files changed, 186 insertions(+), 4 deletions(-)
+
+commit e924c6347bb183a9a0aebad4d1f94bae364b4fbf
+Author: MikkelBN <mikkelbn24@live.dk>
+Date:   Fri Nov 12 12:32:12 2021 +0100
+
+    Initial documents
+
+ DM500_Take_Home_Eksamen_E21.pdf | Bin 0 -> 93775 bytes
+ TakeHomeEksamenDM500.tex        |  25 +++++++++++++++++++++++++
+ 2 files changed, 25 insertions(+)
