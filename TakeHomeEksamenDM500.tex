@@ -9,6 +9,7 @@
 \usepackage[danish]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{fancyhdr}
+\usepackage{lastpage}
 \pagestyle{fancy}
 \fancyhf{}
 
@@ -17,10 +18,12 @@
 \date{\today}
 \renewcommand{\headrulewidth}{0pt}
 \chead{Git og Latex introduktion - DM500 Studieintroduktion}
-\pagenumbering{arabic}
+\cfoot{\thepage\ of \pageref{LastPage}}
 
 \begin{document}
+	\clearpage
 	\maketitle
+	\thispagestyle{empty}
 	\newpage
 	\section*{Opgave 1 - Eksamen januar 2009 opgave 1}
 	Dem første opgave der vil blive løst kommer fra Eksamens sættet fra januar 2009, og er opgave nr.2.
@@ -176,8 +179,7 @@
 			$\underline{\underline{\exists x \in \mathbb{N}\!:\forall y \in \mathbb{N}\!:x \geq y}}$\\
 		\end{center}
 	\end{enumerate}
-	
-	
+	\newpage
 	\section*{Opgave 3}
 	
 	
